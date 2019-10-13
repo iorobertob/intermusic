@@ -10,5 +10,4 @@ This is the index of intermusic related modules, developments and documentation 
 
 ## [resourcespace repository](https://github.com/iorobertob/moodle-repository-resourcespace)
 
-## [Wiki](
-https://github.com/iorobertob/intermusic/wiki)
+## [Wiki](https://github.com/iorobertob/intermusic/wiki)
